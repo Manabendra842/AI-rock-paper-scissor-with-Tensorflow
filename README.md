@@ -1,6 +1,6 @@
 # AI-rock-paper-scissor-with-Tensorflow
 
-Requirements
+* Requirements
 
     *Python 3
     *Keras

@@ -1,6 +1,6 @@
 # AI-rock-paper-scissor-with-Tensorflow
 
-<h1> Requirements </h1>
+<h3> Requirements </h3>
 
     * Python 3
     * Keras

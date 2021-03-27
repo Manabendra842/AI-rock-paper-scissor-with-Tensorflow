@@ -2,12 +2,12 @@
 
 <h3> Requirements </h3>
 
-    * Python 3
-    * Keras
-    * Tensorflow
-    * OpenCV
+     Python 3
+     Keras
+     Tensorflow
+     OpenCV
 
-Set up instructions
+<h3>Set up instructions</h3>
 
     1.Clone the repo.
 

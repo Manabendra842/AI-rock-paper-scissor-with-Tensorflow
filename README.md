@@ -1,11 +1,11 @@
 # AI-rock-paper-scissor-with-Tensorflow
 
-* Requirements
+** Requirements
 
-    *Python 3
-    *Keras
-    *Tensorflow
-    *OpenCV
+    * Python 3
+    * Keras
+    * Tensorflow
+    * OpenCV
 
 Set up instructions
 
